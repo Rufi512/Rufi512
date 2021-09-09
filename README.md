@@ -1,7 +1,7 @@
 ## Hi there!
 I am a web developer and I welcome you to this profile! :smiley:
 
-I am currently available, so you can contact me to collaborate with your projects or simply to give you a hand ...
+I'm currently not available :( but you can contact me to talk or just to help out ...
 or invite me to chew something :hamburger: :fries: :cup_with_straw:	 :yum:
 
 ### Somethings about me
@@ -44,12 +44,12 @@ or invite me to chew something :hamburger: :fries: :cup_with_straw:	 :yum:
 ### Contact :phone: :mailbox:
 <p aling="center">
 
-[<img width="35px" align="left" src="https://www.flaticon.es/svg/static/icons/svg/281/281769.svg" alt="gmailhttps://www.flaticon.es/svg/static/icons/svg/281/281769.svg"/>](mailto://rafajos9@gmail.com) 
+[<img height="35px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="gmail"/>](mailto://rafajos9@gmail.com)  
 
 [<img width="35px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="telegram"/>](https://t.me/Rufi512)
 
-[<img width="35px" align="left" src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg">](https://www.linkedin.com/in/rafael-amaya-4520051a9/)
+[<img width="35px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" alt="linkedin"/>](https://www.linkedin.com/in/rafael-amaya-4520051a9/)
 
-[<img width="35px" aling="left" src="https://cdn.icon-icons.com/icons2/2018/PNG/512/network_social_twitter_icon_123618.png">](https://twitter.com/rufi512)
+[<img width="35px" aling="left" src="https://cdn.icon-icons.com/icons2/2018/PNG/512/network_social_twitter_icon_123618.png" alt="twitter"/>](https://twitter.com/rufi512)
 
 </p>
