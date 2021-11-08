@@ -1,7 +1,7 @@
 ## Hi there!
 I am a web developer and I welcome you to this profile! :smiley:
 
-I'm currently not available :( but you can contact me to talk or just to help out ...
+You can contact me to help you or just chat :wink: ...
 or invite me to chew something :hamburger: :fries: :cup_with_straw:	 :yum:
 
 ### Somethings about me
@@ -44,7 +44,7 @@ or invite me to chew something :hamburger: :fries: :cup_with_straw:	 :yum:
 ### Contact :phone: :mailbox:
 <p aling="center">
 
-[<img height="35px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="gmail"/>](mailto://rafajos9@gmail.com)  
+[<img height="40px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="gmail"/>](mailto://rafajos9@gmail.com)  
 
 [<img width="35px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="telegram"/>](https://t.me/Rufi512)
 
